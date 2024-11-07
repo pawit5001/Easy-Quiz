@@ -1,2 +1,4 @@
 # Easy Quiz
-Complete simple question of many categories here
+- Many catagories
+- Creative questions
+- Points
